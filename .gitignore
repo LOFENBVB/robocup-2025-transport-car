@@ -1,0 +1,15 @@
+# SolidWorks 临时/备份文件
+~$*
+*.bak
+*.tmp
+*.log
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 压缩包
+*.zip
+*.rar
+*.7z
