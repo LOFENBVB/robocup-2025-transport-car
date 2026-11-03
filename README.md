@@ -12,6 +12,18 @@
 
 - `YDI-D3..长）.STEP`、`装饰件 - 副本.STEP`：通用 STEP 格式模型，可用其他 CAD 软件打开。
 
+## 下载
+
+1. 打开仓库主页：https://github.com/LOFENBVB/robocup-2025-transport-car
+2. 点击页面右上角绿色的 **`<> Code`** 按钮
+3. 在弹出菜单底部选择 **Download ZIP**
+
+也可以直接通过以下链接下载主分支完整压缩包：
+
+https://github.com/LOFENBVB/robocup-2025-transport-car/archive/refs/heads/main.zip
+
+下载解压后的目录名为 `robocup-2025-transport-car-main`，保持所有文件在同一目录即可用 SolidWorks 打开主装配体。
+
 ## 使用说明
 
 1. 安装 SolidWorks（建议使用较新版本，如 SolidWorks 2024 及以上）打开模型。
