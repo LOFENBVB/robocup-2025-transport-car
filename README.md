@@ -6,7 +6,7 @@
 
 ### 整车
 
-`ROBOCUP搬运小车.SLDASM` 为整车主装配文件，查看整车结构请打开该文件。
+`00_ROBOCUP搬运小车.SLDASM` 为整车主装配文件，查看整车结构请打开该文件。
 
 ### 其他格式
 
@@ -24,11 +24,13 @@ https://github.com/LOFENBVB/robocup-2025-transport-car/archive/refs/heads/main.z
 
 下载解压后的目录名为 `robocup-2025-transport-car-main`，保持所有文件在同一目录即可用 SolidWorks 打开主装配体。
 
+主文件为 `00_ROBOCUP搬运小车.SLDASM`，文件名前的 `00_` 是为了让它在文件列表中排在最前面，下载后直接打开该文件即可。
+
 ## 使用说明
 
 1. 安装 SolidWorks（建议使用较新版本，如 SolidWorks 2024 及以上）打开模型。
 2. 将仓库中**所有文件保持在同一目录下**，否则装配体会因找不到零件而报错。
-3. 打开 `ROBOCUP搬运小车.SLDASM` 查看整车；单独研究某个模块时打开对应的子装配体即可。
+3. 打开 `00_ROBOCUP搬运小车.SLDASM` 查看整车；单独研究某个模块时打开对应的子装配体即可。
 
 ## 说明
 
